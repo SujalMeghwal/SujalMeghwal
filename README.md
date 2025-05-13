@@ -1,4 +1,18 @@
-<h3 align="left">Hi 👋! My name is Sujal Meghwal. I'm currently a Cybersecurity student actively seeking opportunities in SOC Level 1 or Junior Penetration Testing roles. While I don’t believe in dreams—because dreams are for those who sleep—I believe in goals. My goal is clear: to rise through the ranks and become a Red Team Lead or CTO of a cybersecurity-focused organization.</h3>
+<h3 align="left">
+  Hello 👋 I'm Sujal Meghwal — a dedicated Cybersecurity student<br>
+</h3>
+
+I'm a dedicated **Cybersecurity student** actively seeking opportunities in **SOC Level 1** or **Junior Penetration Testing** roles.
+
+> I don't believe in dreams — dreams fade when you wake.  
+> I believe in **goals** — clearly defined, pursued with intent, and grounded in action.
+
+My ambition is clear:  
+To grow into a **Red Team Lead** and ultimately step into the role of **CTO** at a forward-thinking cybersecurity organization.
+
+I bring a mindset shaped by **curiosity, precision**, and a relentless drive to **learn, exploit**, and **build** in the ever-evolving landscape of **offensive security**.
+
+
 
 ###
 
