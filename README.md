@@ -25,7 +25,7 @@ Grow into a **Red Team Lead**, evolve into a **CTO**/**CISO**, and eventually la
 
 ---
 
-###
+### My Status
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SujalMeghwal&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -35,7 +35,7 @@ Grow into a **Red Team Lead**, evolve into a **CTO**/**CISO**, and eventually la
 </div>
 
 
-### Contact
+### Contact Me
 
 <div align="left">
   <a href="https://www.linkedin.com/in/sujal-meghwal-724a62323/" target="_blank">
@@ -60,7 +60,7 @@ Grow into a **Red Team Lead**, evolve into a **CTO**/**CISO**, and eventually la
 
 <img align="right" height="200" src="https://media1.tenor.com/m/9-r0YAa_qWoAAAAd/shadow-slave-sunny.gif"  />
 
-### Skills
+### Skills And Language
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
