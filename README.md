@@ -1,28 +1,41 @@
 <h3 align="left">
-  Hello 👋 I'm Sujal Meghwal — a dedicated Cybersecurity student<br>
+  Hello 👋 I'm Sujal Meghwal — Aspiring Red Teamer & Exploit Developer
 </h3>
 
-I'm a dedicated **Cybersecurity student** actively seeking opportunities in **SOC Level 1** or **Junior Penetration Testing** roles.
+I’m currently on a focused journey to master **Red Team operations** from the ground up. I’ve dedicated myself to **real-world exploit development**, actively building and breaking systems inside my own offensive labs, enterprise-grade environments.
 
-> I don't believe in dreams — dreams fade when you wake.  
-> I believe in **goals** — clearly defined, pursued with intent, and grounded in action.
+### 🔥 My Commitment:
+My long-term commitment is clear: I’ve chosen to write all my future tools and exploits strictly in **Python 3**, **C**, **C++**, and **Assembly** — no shortcuts, no wrappers — just raw, deep system control. Every script I write is built to exploit, understand, and control.
 
-My ambition is clear:  
-To grow into a **Red Team Lead** and ultimately step into the role of **CTO** at a forward-thinking cybersecurity organization.
+I already hold solid practical skills in **OWASP Top 10 exploitation** and **web application attacks**, and I’m expanding into **advanced Windows and Linux internals**, focused on stealth, persistence, and evasion. My goal is not just access — it’s **undetectable control**.
 
-I bring a mindset shaped by **curiosity, precision**, and a relentless drive to **learn, exploit**, and **build** in the ever-evolving landscape of **offensive security**.
+---
 
+### 🔥 What I'm Doing Right Now:
+- Learning how real attackers move inside **networks**
+- Studying **stealth persistence** and **privilege escalation** on both Windows and Linux (Basic Level)
+- Learn Web Exploitation Development of single vuln on portswigger Lab 
+- Developing **custom Red Team tools**, payloads, and internal frameworks
+- Studying SOC level 1 (For First Job)
 
+---
+
+### 🚀 My Vision:
+Grow into a **Red Team Lead**, evolve into a **CTO**/**CISO**, and eventually launch my own **Red Team Services company** — offering elite adversary simulation, exploit development, and offensive innovation for clients who need more than just basic testing.
+
+---
 
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SujalMeghwal&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=SujalMeghwal&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SujalMeghwal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="150" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SujalMeghwal&area=true&theme=github-dark" height="150" alt="activity-graph graph"  />
 </div>
 
-###
+
+### Contact
 
 <div align="left">
   <a href="https://www.linkedin.com/in/sujal-meghwal-724a62323/" target="_blank">
@@ -45,11 +58,9 @@ I bring a mindset shaped by **curiosity, precision**, and a relentless drive to 
   </a>
 </div>
 
-###
-
 <img align="right" height="200" src="https://media1.tenor.com/m/9-r0YAa_qWoAAAAd/shadow-slave-sunny.gif"  />
 
-###
+### Skills
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
@@ -86,21 +97,6 @@ I bring a mindset shaped by **curiosity, precision**, and a relentless drive to 
 </div>
 
 ###
-<body>
-  <h1>My TikTok Embed</h1>
-
-  <!-- TikTok Embed -->
-  <blockquote class="tiktok-embed"
-    cite="https://www.tiktok.com/@leo2hu/video/7487270116275670294"
-    data-video-id="7487270116275670294"
-    style="max-width: 605px; min-width: 325px;">
-    <section>Watch this cool video by @leo2hu</section>
-  </blockquote>
-  <script async src="https://www.tiktok.com/embed.js"></script>
-
-</body>
-###
-
 
 <br clear="both">
 
@@ -109,6 +105,3 @@ I bring a mindset shaped by **curiosity, precision**, and a relentless drive to 
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SujalMeghwal/SujalMeghwal/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SujalMeghwal/SujalMeghwal/output/pacman-contribution-graph.svg">
 </picture>
-
-
-###
