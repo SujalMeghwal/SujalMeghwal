@@ -86,6 +86,21 @@ I bring a mindset shaped by **curiosity, precision**, and a relentless drive to 
 </div>
 
 ###
+<body>
+  <h1>My TikTok Embed</h1>
+
+  <!-- TikTok Embed -->
+  <blockquote class="tiktok-embed"
+    cite="https://www.tiktok.com/@leo2hu/video/7487270116275670294"
+    data-video-id="7487270116275670294"
+    style="max-width: 605px; min-width: 325px;">
+    <section>Watch this cool video by @leo2hu</section>
+  </blockquote>
+  <script async src="https://www.tiktok.com/embed.js"></script>
+
+</body>
+###
+
 
 <br clear="both">
 
