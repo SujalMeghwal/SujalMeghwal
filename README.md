@@ -7,7 +7,7 @@ I’m currently on a focused journey to master **Red Team operations** from the 
 ---
 
 ### 🔥 My Commitment:
-My long-term commitment is clear: I’ve chosen to write all my future tools and exploits strictly in **Python 3**, **C**, **C++**, and **Assembly** — no shortcuts, no wrappers — just raw, deep system control. Every script I write is built to exploit, understand, and control.
+After 2 years across different domains in cyber, I’ve gone all-in on offense. I love the offensive side because stacking deep skills across many fields beats mastering just one. My tools and exploits are written strictly in Python 3, C, C++, and Assembly — no wrappers, no shortcuts — just raw system control built to exploit, understand
 
 I already hold solid practical skills in **OWASP Top 10 exploitation** and **web application attacks**, and I’m expanding into **advanced Windows and Linux internals**, focused on stealth, persistence, and evasion. My goal is not just access — it’s **undetectable control**.
 
