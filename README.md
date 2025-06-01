@@ -7,9 +7,9 @@ I’m currently on a focused journey to master **Red Team operations** from the 
 ---
 
 ### 🔥 My Commitment:
-After 2 years across different domains in cyber, I’ve gone all-in on offense. I love the offensive side because stacking deep skills across many fields beats mastering just one. My tools and exploits are written strictly in Python 3, C, C++, and Assembly — no wrappers, no shortcuts — just raw system control built to exploit, understand
+After 2 years across different domains in cyber, I’ve gone all-in on offense. I love the offensive side because stacking deep skills across many fields beats mastering just one. My tools and exploits are going to written in Python 3, C, C++, and Assembly.
 
-I already hold solid practical skills in **OWASP Top 10 exploitation** and **web application attacks**, and I’m expanding into **advanced Windows and Linux internals**, focused on stealth, persistence, and evasion. My goal is not just access — it’s **undetectable control**.
+I already hold solid practical skills in **OWASP Top 10 exploitation** and **web application attacks**, and I’m expanding into Cloud, Ai/LLM, Docker, Kubernetes, **advanced Windows and Linux internals**, and trying to be focused on stealth, persistence, and evasion.
 
 ---
 
@@ -19,11 +19,6 @@ I already hold solid practical skills in **OWASP Top 10 exploitation** and **web
 - Learn Web Exploitation Development of single vuln on portswigger Lab 
 - Developing **custom Red Team tools**, payloads, and internal frameworks
 - Studying SOC level 1 (For First Job)
-
----
-
-### 🚀 My Vision:
-Grow into a **Red Team Lead**, evolve into a **CTO**/**CISO**, and eventually launch my own **Red Team Services company** — offering elite adversary simulation, exploit development, and offensive innovation for clients who need more than just basic testing.
 
 ---
 
