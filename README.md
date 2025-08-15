@@ -2,7 +2,7 @@
   Hello 👋 I'm Sujal Meghwal — Aspiring Red Teamer & Exploit Developer
 </h3>
 
-I’m currently on a focused journey to master **Red Team operations** from the ground up. I’ve dedicated myself to **real-world exploit development**, actively building and breaking systems inside my own offensive labs, enterprise-grade environments.
+I’m currently on a focused journey to lean **Red Team operations** and Web/API Penetration Testing. I have been learning **real-world exploit development**, actively building and breaking systems using bug bounty program while being in there guild lines
 
 ---
 
