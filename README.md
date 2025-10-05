@@ -8,8 +8,6 @@ I’m focused on Web/API penetration testing and cloud security (AWS / GCP / Azu
 
 I have solid practical experience with **OWASP Top 10** and web application exploitation. I’m expanding into cloud penetration testing, AI/LLM security.
 
----
-
 ### 🚀 Current Focus
 - Web & API penetration testing (real systems via bug bounty programs)
 - Cloud penetration testing (primary focus: **GCP**; also AWS & Azure)
@@ -17,12 +15,9 @@ I have solid practical experience with **OWASP Top 10** and web application expl
 - Developing custom offensive tools, payloads, and runbooks (Python/C/C++)
 - Building practical exploit development skills on real targets instead of isolated lab exercises
 
----
-
 ### 🎯 Short-term Goal
 Gain 3–4 years of hands-on penetration testing experience focused on cloud and web applications, then transition deeper into cloud red teaming and Active Directory/cloud identity attacks.
 
----
 ### 🧰 Tech / Tools
 **Areas:** Web/API Exploitation, Cloud Penetration Testing
 **Languages:** Python 3, C, C++
