@@ -26,8 +26,8 @@ Gain 3–4 years of hands-on penetration testing experience focused on cloud and
 ### 🧰 Tech / Tools
 **Languages:** Python 3, C, C++  
 **Platforms:** GCP (Focus Currenly), AWS, Azure 
-**Areas:** Web/API Exploitation, Cloud Penetration Testing,
 
+**Areas:** Web/API Exploitation, Cloud Penetration Testing,
 
 ### My Status
 
