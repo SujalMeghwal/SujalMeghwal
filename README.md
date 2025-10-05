@@ -1,26 +1,37 @@
 <h3 align="left">
-  Hello 👋 I'm Sujal Meghwal — Aspiring Red Teamer & Exploit Developer
+  Hello 👋 I'm Sujal Meghwal — Aspiring Cloud & Web Penetration Tester (future Red Teamer)
 </h3>
 
-I’m currently on a focused journey to lean **Red Team operations** and Web/API Penetration Testing. I have been learning **real-world exploit development**, actively building and breaking systems using bug bounty program while being in there guild lines
+I’m focused on Web/API penetration testing and cloud security (AWS / GCP / Azure), using large public bug-bounty programs as real-world testbeds to learn how modern applications are built, scaled, and abused. Labs are useful, but large bounties show me the messy, realistic apps and attack surfaces that matter.
+
+
+---
+---
+
+### 🔥 Current Status
+
+I have solid practical experience with **OWASP Top 10** and web application exploitation. I’m expanding into cloud penetration testing, AI/LLM security.
 
 ---
 
-### 🔥 My Commitment:
-After 2 years across different domains in cyber, I’ve gone all-in on offense. I love the offensive side because stacking deep skills across many fields beats mastering just one. My tools and exploits are going to written in Python 3, C, C++, and Assembly.
-
-I already hold solid practical skills in **OWASP Top 10 exploitation** and **web application attacks**, and I’m expanding into Cloud, Ai/LLM, Docker, Kubernetes, **advanced Windows and Linux internals**, and trying to be focused on stealth, persistence, and evasion.
-
----
-
-### 🔥 What I'm Doing Right Now:
-- Learning how real attackers move inside **networks**
-- Studying **stealth persistence** and **privilege escalation** on both Windows and Linux (Basic Level)
-- Learn Web Exploitation Development of single vuln on portswigger Lab 
-- Developing **custom Red Team tools**, payloads, and internal frameworks
-- Studying SOC level 1 (For First Job)
+### 🚀 Current Focus
+- Web & API penetration testing (real systems via bug bounty programs)
+- Cloud penetration testing (primary focus: **GCP**; also AWS & Azure)
+- Understanding modern application architecture at scale — where to look, how things fail, and how to exploit design and configuration mistakes
+- Developing custom offensive tools, payloads, and runbooks (Python/C/C++)
+- Building practical exploit development skills on real targets instead of isolated lab exercises
 
 ---
+
+### 🎯 Short-term Goal
+Gain 3–4 years of hands-on penetration testing experience focused on cloud and web applications, then transition deeper into cloud red teaming and Active Directory/cloud identity attacks.
+
+---
+### 🧰 Tech / Tools
+**Languages:** Python 3, C, C++  
+**Platforms:** GCP (Focus Currenly), AWS, Azure 
+**Areas:** Web/API Exploitation, Cloud Penetration Testing,
+
 
 ### My Status
 
