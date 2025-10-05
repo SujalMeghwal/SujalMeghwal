@@ -4,10 +4,6 @@
 
 I’m focused on Web/API penetration testing and cloud security (AWS / GCP / Azure), using large public bug-bounty programs as real-world testbeds to learn how modern applications are built, scaled, and abused. Labs are useful, but large bounties show me the messy, realistic apps and attack surfaces that matter.
 
-
----
----
-
 ### 🔥 Current Status
 
 I have solid practical experience with **OWASP Top 10** and web application exploitation. I’m expanding into cloud penetration testing, AI/LLM security.
